@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\ef3345bc2b1866438409645631047e24\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\15aeef1e77047535747cfdf4cea1c544\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{84AAB6B5-02D7-3268-A837-E2CE4CA23469}</UniqueIdentifier>
+      <UniqueIdentifier>{9BD29CC9-8BAA-39A9-8BAA-AE82319D7D97}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

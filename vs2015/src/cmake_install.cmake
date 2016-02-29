@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/USER/Desktop/Audio/src
+# Install script for directory: C:/Users/USER/Desktop/OpenAL-Wrap/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

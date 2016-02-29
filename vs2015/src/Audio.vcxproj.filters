@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\USER\Desktop\Audio\src\main.cpp">
+    <ClCompile Include="C:\Users\USER\Desktop\OpenAL-Wrap\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\USER\Desktop\Audio\src\Audio\audio.cpp">
+    <ClCompile Include="C:\Users\USER\Desktop\OpenAL-Wrap\src\Audio\audio.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\USER\Desktop\Audio\src\Audio\wav.cpp">
+    <ClCompile Include="C:\Users\USER\Desktop\OpenAL-Wrap\src\Audio\wav.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\USER\Desktop\Audio\src\Audio\audio.hpp">
+    <ClInclude Include="C:\Users\USER\Desktop\OpenAL-Wrap\src\Audio\audio.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\USER\Desktop\Audio\src\Audio\wav.hpp">
+    <ClInclude Include="C:\Users\USER\Desktop\OpenAL-Wrap\src\Audio\wav.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\USER\Desktop\Audio\src\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\USER\Desktop\OpenAL-Wrap\src\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{96C8E903-1926-302C-95E8-CECAD47A2431}</UniqueIdentifier>
+      <UniqueIdentifier>{80F67174-E483-36DA-813B-A0120C005782}</UniqueIdentifier>
     </Filter>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{59C79551-3E44-3A81-A274-C83DF2848D46}</UniqueIdentifier>
+      <UniqueIdentifier>{856F37C0-A344-315A-A159-3A004F1ED467}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

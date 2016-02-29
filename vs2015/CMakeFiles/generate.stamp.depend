@@ -1,8 +1,8 @@
 # CMake generation dependency list for this directory.
-C:/Users/USER/Desktop/Audio/CMakeLists.txt
+C:/Users/USER/Desktop/OpenAL-Wrap/CMakeLists.txt
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeDetermineSystem.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeSystem.cmake.in
-C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/3.5.0-rc1/CMakeSystem.cmake
+C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/3.5.0-rc1/CMakeSystem.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeSystemSpecificInitialize.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeDetermineCCompiler.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeDetermineCompiler.cmake
@@ -45,7 +45,7 @@ C:/msys64/usr/share/cmake-3.5/Modules/Compiler/IBMCPP-C-DetermineVersionInternal
 C:/msys64/usr/share/cmake-3.5/Modules/CompilerId/VS-10.vcxproj.in
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeFindBinUtils.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeCCompiler.cmake.in
-C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/3.5.0-rc1/CMakeCCompiler.cmake
+C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/3.5.0-rc1/CMakeCCompiler.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeDetermineCXXCompiler.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeDetermineCompiler.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/Platform/Windows-CXX.cmake
@@ -87,7 +87,7 @@ C:/msys64/usr/share/cmake-3.5/Modules/Compiler/IBMCPP-CXX-DetermineVersionIntern
 C:/msys64/usr/share/cmake-3.5/Modules/CompilerId/VS-10.vcxproj.in
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeFindBinUtils.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeCXXCompiler.cmake.in
-C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/3.5.0-rc1/CMakeCXXCompiler.cmake
+C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/3.5.0-rc1/CMakeCXXCompiler.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeSystemSpecificInformation.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeGenericSystem.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/Platform/Windows.cmake
@@ -98,7 +98,7 @@ C:/msys64/usr/share/cmake-3.5/Modules/Platform/Windows-MSVC-C.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/Platform/Windows-MSVC.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeDetermineRCCompiler.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeRCCompiler.cmake.in
-C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/3.5.0-rc1/CMakeRCCompiler.cmake
+C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/3.5.0-rc1/CMakeRCCompiler.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeRCInformation.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeTestRCCompiler.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeCommonLanguageInclude.cmake
@@ -109,7 +109,7 @@ C:/msys64/usr/share/cmake-3.5/Modules/CMakeParseImplicitLinkInfo.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeCCompilerABI.c
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeDetermineCompileFeatures.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeCCompiler.cmake.in
-C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/3.5.0-rc1/CMakeCCompiler.cmake
+C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/3.5.0-rc1/CMakeCCompiler.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeCXXInformation.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeLanguageInformation.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/Compiler/MSVC-CXX.cmake
@@ -124,6 +124,6 @@ C:/msys64/usr/share/cmake-3.5/Modules/CMakeCXXCompilerABI.cpp
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeDetermineCompileFeatures.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/Internal/FeatureTesting.cmake
 C:/msys64/usr/share/cmake-3.5/Modules/Compiler/MSVC-CXX-FeatureTests.cmake
-C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/feature_tests.cxx
+C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/feature_tests.cxx
 C:/msys64/usr/share/cmake-3.5/Modules/CMakeCXXCompiler.cmake.in
-C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/3.5.0-rc1/CMakeCXXCompiler.cmake
+C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/3.5.0-rc1/CMakeCXXCompiler.cmake

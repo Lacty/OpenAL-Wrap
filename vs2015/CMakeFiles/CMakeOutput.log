@@ -9,9 +9,9 @@ The output was:
 Microsoft (R) Build Engine バージョン 14.0.24728.2
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-2016/02/29 10:14:19 にビルドを開始しました。
+2016/02/29 12:50:44 にビルドを開始しました。
 "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" にある BeforeTargets 属性に一覧表示されているターゲット "BeforeGenerateProjectPriFile" はプロジェクト内に存在しないため、無視されます。
-ノード 1 上のプロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdC\CompilerIdC.vcxproj" (既定のターゲット)。
+ノード 1 上のプロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdC\CompilerIdC.vcxproj" (既定のターゲット)。
 PrepareForBuild:
   ディレクトリ "Debug\" を作成しています。
   ディレクトリ "Debug\CompilerIdC.tlog\" を作成しています。
@@ -22,7 +22,7 @@ ClCompile:
   CMakeCCompilerId.c
 Link:
   C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
-  CompilerIdC.vcxproj -> C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdC\.\CompilerIdC.exe
+  CompilerIdC.vcxproj -> C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdC\.\CompilerIdC.exe
 PostBuildEvent:
   for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
   :VCEnd
@@ -30,20 +30,20 @@ PostBuildEvent:
 FinalizeBuildStatus:
   ファイル "Debug\CompilerIdC.tlog\unsuccessfulbuild" を削除しています。
   "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate" のタッチ タスクを実行しています。
-プロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdC\CompilerIdC.vcxproj" (既定のターゲット) のビルドが完了しました。
+プロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdC\CompilerIdC.vcxproj" (既定のターゲット) のビルドが完了しました。
 
 ビルドに成功しました。
     0 個の警告
     0 エラー
 
-経過時間 00:00:00.73
+経過時間 00:00:00.86
 
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
 
-The C compiler identification is MSVC, found in "C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/3.5.0-rc1/CompilerIdC/CompilerIdC.exe"
+The C compiler identification is MSVC, found in "C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/3.5.0-rc1/CompilerIdC/CompilerIdC.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler:  
@@ -55,9 +55,9 @@ The output was:
 Microsoft (R) Build Engine バージョン 14.0.24728.2
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-2016/02/29 10:14:20 にビルドを開始しました。
+2016/02/29 12:50:45 にビルドを開始しました。
 "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" にある BeforeTargets 属性に一覧表示されているターゲット "BeforeGenerateProjectPriFile" はプロジェクト内に存在しないため、無視されます。
-ノード 1 上のプロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj" (既定のターゲット)。
+ノード 1 上のプロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj" (既定のターゲット)。
 PrepareForBuild:
   ディレクトリ "Debug\" を作成しています。
   ディレクトリ "Debug\CompilerIdCXX.tlog\" を作成しています。
@@ -68,7 +68,7 @@ ClCompile:
   CMakeCXXCompilerId.cpp
 Link:
   C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
-  CompilerIdCXX.vcxproj -> C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdCXX\.\CompilerIdCXX.exe
+  CompilerIdCXX.vcxproj -> C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdCXX\.\CompilerIdCXX.exe
 PostBuildEvent:
   for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
   :VCEnd
@@ -76,133 +76,93 @@ PostBuildEvent:
 FinalizeBuildStatus:
   ファイル "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" を削除しています。
   "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate" のタッチ タスクを実行しています。
-プロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj" (既定のターゲット) のビルドが完了しました。
+プロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\3.5.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj" (既定のターゲット) のビルドが完了しました。
 
 ビルドに成功しました。
     0 個の警告
     0 エラー
 
-経過時間 00:00:00.81
+経過時間 00:00:00.74
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
 
-The CXX compiler identification is MSVC, found in "C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/3.5.0-rc1/CompilerIdCXX/CompilerIdCXX.exe"
+The CXX compiler identification is MSVC, found in "C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/3.5.0-rc1/CompilerIdCXX/CompilerIdCXX.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_c83c6.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_54936.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
 Microsoft (R) Build Engine バージョン 14.0.24728.2
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-2016/02/29 10:14:21 にビルドを開始しました。
+2016/02/29 12:50:46 にビルドを開始しました。
 "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" にある BeforeTargets 属性に一覧表示されているターゲット "BeforeGenerateProjectPriFile" はプロジェクト内に存在しないため、無視されます。
-ノード 1 上のプロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\cmTC_c83c6.vcxproj" (既定のターゲット)。
+ノード 1 上のプロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\cmTC_54936.vcxproj" (既定のターゲット)。
 PrepareForBuild:
-  ディレクトリ "cmTC_c83c6.dir\Debug\" を作成しています。
-  ディレクトリ "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\" を作成しています。
-  ディレクトリ "cmTC_c83c6.dir\Debug\cmTC_c83c6.tlog\" を作成しています。
+  ディレクトリ "cmTC_54936.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_54936.dir\Debug\cmTC_54936.tlog\" を作成しています。
 InitializeBuildStatus:
-  "AlwaysCreate" が指定されたため "cmTC_c83c6.dir\Debug\cmTC_c83c6.tlog\unsuccessfulbuild" を作成しています。
+  "AlwaysCreate" が指定されたため "cmTC_54936.dir\Debug\cmTC_54936.tlog\unsuccessfulbuild" を作成しています。
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c83c6.dir\Debug\\" /Fd"cmTC_c83c6.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\testCCompiler.c
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_54936.dir\Debug\\" /Fd"cmTC_54936.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\testCCompiler.c"
   Microsoft(R) C/C++ Optimizing Compiler Version 19.00.23506 for x64
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c83c6.dir\Debug\\" /Fd"cmTC_c83c6.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\testCCompiler.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_54936.dir\Debug\\" /Fd"cmTC_54936.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\testCCompiler.c"
   
   testCCompiler.c
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_c83c6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_c83c6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_c83c6.lib" /MACHINE:X64  /machine:x64 cmTC_c83c6.dir\Debug\testCCompiler.obj
-  cmTC_c83c6.vcxproj -> C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_c83c6.exe
-  cmTC_c83c6.vcxproj -> C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_c83c6.pdb (Full PDB)
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_54936.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_54936.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_54936.lib" /MACHINE:X64  /machine:x64 cmTC_54936.dir\Debug\testCCompiler.obj
+  cmTC_54936.vcxproj -> C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_54936.exe
+  cmTC_54936.vcxproj -> C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_54936.pdb (Full PDB)
 FinalizeBuildStatus:
-  ファイル "cmTC_c83c6.dir\Debug\cmTC_c83c6.tlog\unsuccessfulbuild" を削除しています。
-  "cmTC_c83c6.dir\Debug\cmTC_c83c6.tlog\cmTC_c83c6.lastbuildstate" のタッチ タスクを実行しています。
-プロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\cmTC_c83c6.vcxproj" (既定のターゲット) のビルドが完了しました。
+  ファイル "cmTC_54936.dir\Debug\cmTC_54936.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_54936.dir\Debug\cmTC_54936.tlog\cmTC_54936.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\cmTC_54936.vcxproj" (既定のターゲット) のビルドが完了しました。
 
 ビルドに成功しました。
     0 個の警告
     0 エラー
 
-経過時間 00:00:00.85
+経過時間 00:00:01.13
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_ad941.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_746f6.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
 Microsoft (R) Build Engine バージョン 14.0.24728.2
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-2016/02/29 10:14:22 にビルドを開始しました。
+2016/02/29 12:50:47 にビルドを開始しました。
 "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" にある BeforeTargets 属性に一覧表示されているターゲット "BeforeGenerateProjectPriFile" はプロジェクト内に存在しないため、無視されます。
-ノード 1 上のプロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\cmTC_ad941.vcxproj" (既定のターゲット)。
+ノード 1 上のプロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\cmTC_746f6.vcxproj" (既定のターゲット)。
 PrepareForBuild:
-  ディレクトリ "cmTC_ad941.dir\Debug\" を作成しています。
-  ディレクトリ "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\" を作成しています。
-  ディレクトリ "cmTC_ad941.dir\Debug\cmTC_ad941.tlog\" を作成しています。
+  ディレクトリ "cmTC_746f6.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_746f6.dir\Debug\cmTC_746f6.tlog\" を作成しています。
 InitializeBuildStatus:
-  "AlwaysCreate" が指定されたため "cmTC_ad941.dir\Debug\cmTC_ad941.tlog\unsuccessfulbuild" を作成しています。
+  "AlwaysCreate" が指定されたため "cmTC_746f6.dir\Debug\cmTC_746f6.tlog\unsuccessfulbuild" を作成しています。
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ad941.dir\Debug\\" /Fd"cmTC_ad941.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\msys64\usr\share\cmake-3.5\Modules\CMakeCCompilerABI.c"
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_746f6.dir\Debug\\" /Fd"cmTC_746f6.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\msys64\usr\share\cmake-3.5\Modules\CMakeCCompilerABI.c"
   Microsoft(R) C/C++ Optimizing Compiler Version 19.00.23506 for x64
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ad941.dir\Debug\\" /Fd"cmTC_ad941.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\msys64\usr\share\cmake-3.5\Modules\CMakeCCompilerABI.c"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_746f6.dir\Debug\\" /Fd"cmTC_746f6.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\msys64\usr\share\cmake-3.5\Modules\CMakeCCompilerABI.c"
   
   CMakeCCompilerABI.c
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_ad941.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_ad941.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_ad941.lib" /MACHINE:X64  /machine:x64 cmTC_ad941.dir\Debug\CMakeCCompilerABI.obj
-  cmTC_ad941.vcxproj -> C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_ad941.exe
-  cmTC_ad941.vcxproj -> C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_ad941.pdb (Full PDB)
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_746f6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_746f6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_746f6.lib" /MACHINE:X64  /machine:x64 cmTC_746f6.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_746f6.vcxproj -> C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_746f6.exe
+  cmTC_746f6.vcxproj -> C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_746f6.pdb (Full PDB)
 FinalizeBuildStatus:
-  ファイル "cmTC_ad941.dir\Debug\cmTC_ad941.tlog\unsuccessfulbuild" を削除しています。
-  "cmTC_ad941.dir\Debug\cmTC_ad941.tlog\cmTC_ad941.lastbuildstate" のタッチ タスクを実行しています。
-プロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\cmTC_ad941.vcxproj" (既定のターゲット) のビルドが完了しました。
-
-ビルドに成功しました。
-    0 個の警告
-    0 エラー
-
-経過時間 00:00:01.02
-
-
-Determining if the CXX compiler works passed with the following output:
-Change Dir: C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp
-
-Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_36b67.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
-Microsoft (R) Build Engine バージョン 14.0.24728.2
-Copyright (C) Microsoft Corporation. All rights reserved.
-
-2016/02/29 10:14:24 にビルドを開始しました。
-"C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" にある BeforeTargets 属性に一覧表示されているターゲット "BeforeGenerateProjectPriFile" はプロジェクト内に存在しないため、無視されます。
-ノード 1 上のプロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\cmTC_36b67.vcxproj" (既定のターゲット)。
-PrepareForBuild:
-  ディレクトリ "cmTC_36b67.dir\Debug\" を作成しています。
-  ディレクトリ "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\" を作成しています。
-  ディレクトリ "cmTC_36b67.dir\Debug\cmTC_36b67.tlog\" を作成しています。
-InitializeBuildStatus:
-  "AlwaysCreate" が指定されたため "cmTC_36b67.dir\Debug\cmTC_36b67.tlog\unsuccessfulbuild" を作成しています。
-ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_36b67.dir\Debug\\" /Fd"cmTC_36b67.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
-  Microsoft(R) C/C++ Optimizing Compiler Version 19.00.23506 for x64
-  Copyright (C) Microsoft Corporation.  All rights reserved.
-  
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_36b67.dir\Debug\\" /Fd"cmTC_36b67.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
-  
-  testCXXCompiler.cxx
-Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_36b67.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_36b67.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_36b67.lib" /MACHINE:X64  /machine:x64 cmTC_36b67.dir\Debug\testCXXCompiler.obj
-  cmTC_36b67.vcxproj -> C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_36b67.exe
-  cmTC_36b67.vcxproj -> C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_36b67.pdb (Full PDB)
-FinalizeBuildStatus:
-  ファイル "cmTC_36b67.dir\Debug\cmTC_36b67.tlog\unsuccessfulbuild" を削除しています。
-  "cmTC_36b67.dir\Debug\cmTC_36b67.tlog\cmTC_36b67.lastbuildstate" のタッチ タスクを実行しています。
-プロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\cmTC_36b67.vcxproj" (既定のターゲット) のビルドが完了しました。
+  ファイル "cmTC_746f6.dir\Debug\cmTC_746f6.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_746f6.dir\Debug\cmTC_746f6.tlog\cmTC_746f6.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\cmTC_746f6.vcxproj" (既定のターゲット) のビルドが完了しました。
 
 ビルドに成功しました。
     0 個の警告
@@ -211,86 +171,126 @@ FinalizeBuildStatus:
 経過時間 00:00:00.86
 
 
-Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_df3ba.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_4d6ab.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
 Microsoft (R) Build Engine バージョン 14.0.24728.2
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-2016/02/29 10:14:25 にビルドを開始しました。
+2016/02/29 12:50:48 にビルドを開始しました。
 "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" にある BeforeTargets 属性に一覧表示されているターゲット "BeforeGenerateProjectPriFile" はプロジェクト内に存在しないため、無視されます。
-ノード 1 上のプロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\cmTC_df3ba.vcxproj" (既定のターゲット)。
+ノード 1 上のプロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\cmTC_4d6ab.vcxproj" (既定のターゲット)。
 PrepareForBuild:
-  ディレクトリ "cmTC_df3ba.dir\Debug\" を作成しています。
-  ディレクトリ "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\" を作成しています。
-  ディレクトリ "cmTC_df3ba.dir\Debug\cmTC_df3ba.tlog\" を作成しています。
+  ディレクトリ "cmTC_4d6ab.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_4d6ab.dir\Debug\cmTC_4d6ab.tlog\" を作成しています。
 InitializeBuildStatus:
-  "AlwaysCreate" が指定されたため "cmTC_df3ba.dir\Debug\cmTC_df3ba.tlog\unsuccessfulbuild" を作成しています。
+  "AlwaysCreate" が指定されたため "cmTC_4d6ab.dir\Debug\cmTC_4d6ab.tlog\unsuccessfulbuild" を作成しています。
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_df3ba.dir\Debug\\" /Fd"cmTC_df3ba.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\msys64\usr\share\cmake-3.5\Modules\CMakeCXXCompilerABI.cpp"
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4d6ab.dir\Debug\\" /Fd"cmTC_4d6ab.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
   Microsoft(R) C/C++ Optimizing Compiler Version 19.00.23506 for x64
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_df3ba.dir\Debug\\" /Fd"cmTC_df3ba.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\msys64\usr\share\cmake-3.5\Modules\CMakeCXXCompilerABI.cpp"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4d6ab.dir\Debug\\" /Fd"cmTC_4d6ab.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
   
-  CMakeCXXCompilerABI.cpp
+  testCXXCompiler.cxx
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_df3ba.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_df3ba.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_df3ba.lib" /MACHINE:X64  /machine:x64 cmTC_df3ba.dir\Debug\CMakeCXXCompilerABI.obj
-  cmTC_df3ba.vcxproj -> C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_df3ba.exe
-  cmTC_df3ba.vcxproj -> C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_df3ba.pdb (Full PDB)
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_4d6ab.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_4d6ab.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_4d6ab.lib" /MACHINE:X64  /machine:x64 cmTC_4d6ab.dir\Debug\testCXXCompiler.obj
+  cmTC_4d6ab.vcxproj -> C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_4d6ab.exe
+  cmTC_4d6ab.vcxproj -> C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_4d6ab.pdb (Full PDB)
 FinalizeBuildStatus:
-  ファイル "cmTC_df3ba.dir\Debug\cmTC_df3ba.tlog\unsuccessfulbuild" を削除しています。
-  "cmTC_df3ba.dir\Debug\cmTC_df3ba.tlog\cmTC_df3ba.lastbuildstate" のタッチ タスクを実行しています。
-プロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\cmTC_df3ba.vcxproj" (既定のターゲット) のビルドが完了しました。
+  ファイル "cmTC_4d6ab.dir\Debug\cmTC_4d6ab.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_4d6ab.dir\Debug\cmTC_4d6ab.tlog\cmTC_4d6ab.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\cmTC_4d6ab.vcxproj" (既定のターゲット) のビルドが完了しました。
 
 ビルドに成功しました。
     0 個の警告
     0 エラー
 
-経過時間 00:00:00.82
+経過時間 00:00:00.91
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_9ad22.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine バージョン 14.0.24728.2
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2016/02/29 12:50:50 にビルドを開始しました。
+"C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" にある BeforeTargets 属性に一覧表示されているターゲット "BeforeGenerateProjectPriFile" はプロジェクト内に存在しないため、無視されます。
+ノード 1 上のプロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\cmTC_9ad22.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_9ad22.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_9ad22.dir\Debug\cmTC_9ad22.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_9ad22.dir\Debug\cmTC_9ad22.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_9ad22.dir\Debug\\" /Fd"cmTC_9ad22.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\msys64\usr\share\cmake-3.5\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.00.23506 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_9ad22.dir\Debug\\" /Fd"cmTC_9ad22.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\msys64\usr\share\cmake-3.5\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_9ad22.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_9ad22.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_9ad22.lib" /MACHINE:X64  /machine:x64 cmTC_9ad22.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_9ad22.vcxproj -> C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_9ad22.exe
+  cmTC_9ad22.vcxproj -> C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_9ad22.pdb (Full PDB)
+FinalizeBuildStatus:
+  ファイル "cmTC_9ad22.dir\Debug\cmTC_9ad22.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_9ad22.dir\Debug\cmTC_9ad22.tlog\cmTC_9ad22.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\cmTC_9ad22.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.91
 
 
 
 
 Detecting CXX [] compiler features compiled with the following output:
-Change Dir: C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_71929.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_d241f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
 Microsoft (R) Build Engine バージョン 14.0.24728.2
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-2016/02/29 10:14:26 にビルドを開始しました。
+2016/02/29 12:50:51 にビルドを開始しました。
 "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" にある BeforeTargets 属性に一覧表示されているターゲット "BeforeGenerateProjectPriFile" はプロジェクト内に存在しないため、無視されます。
-ノード 1 上のプロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\cmTC_71929.vcxproj" (既定のターゲット)。
+ノード 1 上のプロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\cmTC_d241f.vcxproj" (既定のターゲット)。
 PrepareForBuild:
-  ディレクトリ "cmTC_71929.dir\Debug\" を作成しています。
-  ディレクトリ "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\" を作成しています。
-  ディレクトリ "cmTC_71929.dir\Debug\cmTC_71929.tlog\" を作成しています。
+  ディレクトリ "cmTC_d241f.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_d241f.dir\Debug\cmTC_d241f.tlog\" を作成しています。
 InitializeBuildStatus:
-  "AlwaysCreate" が指定されたため "cmTC_71929.dir\Debug\cmTC_71929.tlog\unsuccessfulbuild" を作成しています。
+  "AlwaysCreate" が指定されたため "cmTC_d241f.dir\Debug\cmTC_d241f.tlog\unsuccessfulbuild" を作成しています。
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_71929.dir\Debug\\" /Fd"cmTC_71929.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\feature_tests.cxx
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d241f.dir\Debug\\" /Fd"cmTC_d241f.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\feature_tests.cxx"
   Microsoft(R) C/C++ Optimizing Compiler Version 19.00.23506 for x64
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_71929.dir\Debug\\" /Fd"cmTC_71929.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\feature_tests.cxx
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d241f.dir\Debug\\" /Fd"cmTC_d241f.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\feature_tests.cxx"
   
   feature_tests.cxx
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_71929.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_71929.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_71929.lib" /MACHINE:X64  /machine:x64 cmTC_71929.dir\Debug\feature_tests.obj
-  cmTC_71929.vcxproj -> C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_71929.exe
-  cmTC_71929.vcxproj -> C:/Users/USER/Desktop/Audio/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_71929.pdb (Full PDB)
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_d241f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_d241f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_d241f.lib" /MACHINE:X64  /machine:x64 cmTC_d241f.dir\Debug\feature_tests.obj
+  cmTC_d241f.vcxproj -> C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\Debug\cmTC_d241f.exe
+  cmTC_d241f.vcxproj -> C:/Users/USER/Desktop/OpenAL-Wrap/vs2015/CMakeFiles/CMakeTmp/Debug/cmTC_d241f.pdb (Full PDB)
 FinalizeBuildStatus:
-  ファイル "cmTC_71929.dir\Debug\cmTC_71929.tlog\unsuccessfulbuild" を削除しています。
-  "cmTC_71929.dir\Debug\cmTC_71929.tlog\cmTC_71929.lastbuildstate" のタッチ タスクを実行しています。
-プロジェクト "C:\Users\USER\Desktop\Audio\vs2015\CMakeFiles\CMakeTmp\cmTC_71929.vcxproj" (既定のターゲット) のビルドが完了しました。
+  ファイル "cmTC_d241f.dir\Debug\cmTC_d241f.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_d241f.dir\Debug\cmTC_d241f.tlog\cmTC_d241f.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\USER\Desktop\OpenAL-Wrap\vs2015\CMakeFiles\CMakeTmp\cmTC_d241f.vcxproj" (既定のターゲット) のビルドが完了しました。
 
 ビルドに成功しました。
     0 個の警告
     0 エラー
 
-経過時間 00:00:01.00
+経過時間 00:00:00.90
 
 
     Feature record: CXX_FEATURE:1cxx_alias_templates
