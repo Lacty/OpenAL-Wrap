@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\USER\Desktop\Audio\src\main.cpp(30): warning C4305: '引数': 'double' から 'GLclampf' へ切り詰めます。
+  Audio.vcxproj -> C:\Users\USER\Desktop\Audio\vs2015\src\Debug\Audio.exe
+  Audio.vcxproj -> C:/Users/USER/Desktop/Audio/vs2015/src/Debug/Audio.pdb (Full PDB)
